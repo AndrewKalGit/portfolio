@@ -17,7 +17,7 @@ function Summary(props) {
       </p>
         <p class="text-gray-300 md:mt-4 md:block">
         <br></br>
-        <strong> Not only do I bring a strong frontend backgroud, but I have a strong ability to adapt and problem solving skills.
+        <strong> Not only do I bring a strong frontend backgroud, but I have a strong ability to adapt and problem solve.
         </strong>
       </p>
 
