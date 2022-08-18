@@ -1,4 +1,5 @@
 import React from 'react';
+import { HashLink } from 'react-router-hash-link'
 
 function Footer(props) {
     return (
@@ -37,7 +38,7 @@ function Footer(props) {
 
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          class="w-5 h-5"
+          class="w-12 h-12 sm:w-5 sm:h-5"
           viewBox="0 0 20 20"
           fill="currentColor"
         >

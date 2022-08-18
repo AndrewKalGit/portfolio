@@ -6,6 +6,7 @@ function Skills(props) {
 <div>
 <section class="text-white bg-gray-900">
   <div class="max-w-screen-4xl px-4 py-16 sm:px-6 lg:px-8">
+    <div class="flex justify-center text-center pb-12 sm:pb-0">
     <div class="max-w-xl">
       <h2 class="text-3xl font-bold sm:text-4xl">Skills</h2>
 
@@ -15,7 +16,7 @@ function Skills(props) {
         </strong>
       </p>
     </div>
-
+    </div>
     <div
       class="grid grid-cols-1 gap-8 mt-8 md:gap-12 md:mt-12 md:grid-cols-2 lg:grid-cols-6"
     >

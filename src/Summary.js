@@ -4,7 +4,7 @@ import Portrait from './andrewk.png'
 function Summary(props) {
     return (
 <aside
-  class="overflow-hidden bg-gray-900 sm:grid sm:grid-cols-2 sm:items-center pt-5 sm:pt-5 md:pt-2 lg:pt-0 max-h-screen"
+  class="overflow-hidden bg-gray-900 sm:grid sm:grid-cols-2 sm:items-center pt-5 sm:pt-5 md:pt-2 lg:pt-0 -mb-8"
 >
   <div class="p-8 md:p-12 lg:px-16 lg:py-24">
     <div class="max-w-xl mx-auto text-center sm:text-left">
@@ -24,7 +24,7 @@ function Summary(props) {
       <div class="mt-4 md:mt-8">
         <a
           href="#"
-          class="inline-block px-12 py-3 text-sm font-medium text-white transition rounded bg-emerald-600 hover:bg-emerald-700 focus:outline-none focus:ring focus:ring-yellow-400"
+          class="inline-block px-12 py-3 text-sm font-medium text-white transition rounded bg-gray-400 hover:bg-gray-700"
         >
           Check out my work!
         </a>
