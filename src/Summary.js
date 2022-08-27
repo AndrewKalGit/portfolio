@@ -9,15 +9,15 @@ function Summary(props) {
   <div class="p-8 md:p-12 lg:px-16 lg:py-24">
     <div class="max-w-xl mx-auto text-center sm:text-left">
       <h2 class="text-2xl font-bold text-white md:text-2xl">
-        Hello! I'm Andrew Kal: Frontend Developer
+        Hello! I'm <span class="text-blue-400"> Andrew Kal </span>: <span class="text-red-400"> Frontend Developer </span>
       </h2>
 
       <p class="hidden text-gray-300 md:mt-4 md:block">
-        I'm always looking for technical and creative challenges in Frontend web development. Due to technology always changing, I've gained a strong interest in Data Structures and Algorithms alongside web development. It is a topic I've been exploring more as it shows me a fundamental approach to programming and problem solving.
-      </p>
+        I love getting my hands dirty, I am actively involved in Boxing and Fitness alongside programming. Adapting to new situations and workouts is my specialty. Just like my Boxing career always presents new challenges so does technology. However, with my strong fundalmental approach and desire to really get in on the work I usually come out on top, or <span class="font-bold text-blue-400" > allow myself to be resilent and push forward the next day.</span> <span class="font-bold text-red-400"> With the help of supports in my life and being held accountable and collaborating with like-minded people</span> I find it enjoyable to get through life, but also empowering.       
+        </p>
         <p class="text-gray-300 md:mt-4 md:block">
         <br></br>
-        <strong> Not only do I bring a strong frontend backgroud, but I have a strong ability to adapt and problem solve.
+        <strong> Not only do I bring a strong frontend backgroud, I thrive in a culture that shares my ability to struggle empathetically and come out on top.
         </strong>
       </p>
 

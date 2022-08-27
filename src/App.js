@@ -6,6 +6,7 @@ import Projects from './Projects';
 import Resume from './Resume';
 import Summary from './Summary';
 import Footer from './Footer'
+import Contact from './Contact';
 
 function App() {
   return (
@@ -14,9 +15,11 @@ function App() {
       <Nav></Nav>
       <Routes>
         <Route path="/" element={<><Summary></Summary><Skills></Skills><Projects></Projects><Resume></Resume></>}></Route>
+         <Route path="/projects" element={<><Skills></Skills><Projects></Projects></>}></Route>
+         <Route path="/contact" element={<><Contact></Contact></>}></Route>
       </Routes>
     </BrowserRouter>
-      <Footer></Footer>
+      {/* <Footer></Footer> */}
     </>
   );
 }

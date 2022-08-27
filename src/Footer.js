@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashLink } from 'react-router-hash-link'
+import { Link } from 'react-router-hash-link'
 
 function Footer(props) {
     return (
@@ -29,27 +29,15 @@ function Footer(props) {
           </svg>
         </a>
       </li>
-       <li>
-         <a
-        class="inline-block text-white transition bg-gray-700 rounded-full sm:p-3 lg:p-4 hover:bg-gray-600"
-        href="#MainContent"
-      >
-        <span class="sr-only">Back to top</span>
-
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          class="w-12 h-12 sm:w-5 sm:h-5"
-          viewBox="0 0 20 20"
-          fill="currentColor"
+        <li>
+          <a
+         href="https://www.linkedin.com/in/andrew-kal/"
+          rel="noopener noreferrer"
+          target="_blank"
         >
-          <path
-            fill-rule="evenodd"
-            d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z"
-            clip-rule="evenodd"
-          />
-        </svg>
-      </a>
-      </li>
+          <svg class="opacity-100 transition hover:opacity-50" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+        </a>
+        </li>
     </ul>
   </div>
 </footer>
