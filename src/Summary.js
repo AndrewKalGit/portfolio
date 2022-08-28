@@ -23,7 +23,7 @@ function Summary(props) {
 
       <div class="mt-4 md:mt-8">
         <a
-          href="https://GitHub.com/andrewkalgit.com" target="_blank"
+          href="https://github.com/AndrewKalGit" target="_blank"
           class="inline-block px-12 py-3 text-sm font-medium text-white transition rounded bg-gray-400 hover:bg-gray-700"
         >
           Check out my work!
