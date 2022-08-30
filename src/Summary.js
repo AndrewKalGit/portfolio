@@ -13,7 +13,8 @@ function Summary(props) {
       </h2>
 
       <p class="hidden text-gray-300 md:mt-4 md:block">
-        I love getting my hands dirty, I am actively involved in Boxing and Fitness alongside programming. Adapting to new situations and workouts is my specialty. Just like my Boxing career always presents new challenges so does technology. However, with my strong fundalmental approach and desire to really get in on the work I usually come out on top, or <span class="font-bold text-blue-400" > allow myself to be resilent and push forward the next day.</span> <span class="font-bold text-red-400"> With the help of supports in my life and being held accountable and collaborating with like-minded people</span> I find it enjoyable to get through life, but also empowering.       
+        I'm a front-end developer with a background in sales and retail. I love solving problems, collaborating with like-minded people, and getting out of my comfort zone with hobbies like Boxing and Fitness.
+After working to help customers find the best hardware and software for their needs, I developed a strong interest in how app development and design makes a difference in people's lives. Currently I am working as a freelance web developer. I reach out to local businesses to continue to challenge myself and problem solve for the community. I am currently looking for a full time position as a Front-end developer and using freelancing as a means to stay engaged in the community and hone my front-end skills. 
         </p>
         <p class="text-gray-300 md:mt-4 md:block">
         <br></br>
