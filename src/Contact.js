@@ -5,10 +5,10 @@ function Contact(props) {
     return (
        <>
        <aside
-  class="overflow-hidden bg-gray-900 sm:grid sm:grid-cols-2 sm:items-center pt-5 sm:pt-5 md:pt-2 -mb-8"
+  class="overflow-hidden bg-gray-900 sm:grid sm:grid-cols-1 sm:items-center pt-5  -mb-8"
 >
-  <div class="p-8 md:p-12 lg:px-16 lg:py-24 -mb-36 sm:-mb-4">
-    <div class="max-w-xl mx-auto text-center sm:text-left text-white">
+  <div class="p-8 mt-8">
+    <div class="max-w-xl mx-auto text-center text-white">
         <h1 class="text-2xl font-bold text-white md:text-2xl">
             Email: andrewkal327@gmail.com
             <br>
@@ -22,8 +22,8 @@ function Contact(props) {
         </h1>
     </div>
   </div>
-  <div class="flex justify-center bg-gray-900">
-        <img class="mt-20 sm:w-3/4" src={Resumepdf} alt="resume"/>
+  <div class="flex justify-center bg-gray-900 -mt-20 sm:-mt-0">
+        <img class="mt-4 w-full sm:w-3/4 " src={Resumepdf} alt="resume"/>
     </div>
 </aside>
        </>

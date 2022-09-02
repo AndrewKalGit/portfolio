@@ -5,10 +5,13 @@ import Tower from './Img/TowerofHanoi.png'
 import Weather from './Img/Weather.png'
 import Peeep from './Img/Peeep.png'
 import FELP from './Img/FELP-landingpage.png'
+import Nav from './Nav'
 
 function Projects(props) {
     return (
-<div class="-mt-12">
+<>
+<Nav></Nav>
+<div>
 <section class="text-white bg-gray-900">
   <div class="max-w-screen-4xl px-4 py-16 sm:px-6 lg:px-8">
     <div class="flex justify-center text-center pb-12 sm:pb-0">
@@ -96,6 +99,7 @@ function Projects(props) {
 </div>
 </section>
 </div>
+</>
     );
 }
 

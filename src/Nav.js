@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 function Nav(props) {
     return (
-<nav class="h-10 flex justify-center font-bold w-full fixed bg-slate-700/70 ">
+<nav class="h-12 flex justify-center font-bold w-full fixed bg-slate-700/70 ">
     <h2 class="sr-only" id="header-navigation">Header navigation</h2>
           <ul class="flex items-center gap-6 text-sm">
              <li>
@@ -50,14 +50,14 @@ function Nav(props) {
                 class="text-white transition hover:text-gray-100/75"
                 to="/projects"
               >
-                Skills & Projects
+                Projects
               </Link>
             </li>
 
             <li class="text-white">
               <Link
                 class="text-white transition hover:text-gray-100/75"
-                to="contact"
+                to="/contact"
               >
                 Contact
               </Link>

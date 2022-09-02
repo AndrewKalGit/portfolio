@@ -5,9 +5,9 @@ import API from './svg/icons8-rest-api-24.png'
 
 function Skills(props) {
     return (
-<div>
+<div> 
 <section class="text-white bg-gray-900">
-  <div class="max-w-screen-4xl px-4 py-16 sm:px-6 lg:px-8">
+  <div class="max-w-screen-4xl px-4 mb-20 sm:px-6 lg:px-8">
     <div class="flex justify-center text-center pb-12 sm:pb-0">
     <div class="max-w-xl">
       <h2 class="text-3xl font-bold sm:text-4xl">Skills</h2>
