@@ -10,7 +10,7 @@ function Skills(props) {
   <div class="max-w-screen-4xl px-4 mb-20 sm:px-6 lg:px-8">
     <div class="flex justify-center text-center pb-12 sm:pb-0">
     <div class="max-w-xl">
-      <h2 class="text-3xl font-bold sm:text-4xl">Skills</h2>
+      <h2 class="text-3xl font-bold sm:text-4xl mt-16">Skills</h2>
       <p class="mt-4 text-gray-300">
         <strong>
         Explore my Frontend Developer and Programming Skills

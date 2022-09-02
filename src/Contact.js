@@ -7,8 +7,9 @@ function Contact(props) {
        <aside
   class="overflow-hidden bg-gray-900 sm:grid sm:grid-cols-1 sm:items-center pt-5  -mb-8"
 >
-  <div class="p-8 mt-8">
+  <div class="p-8 mt-2">
     <div class="max-w-xl mx-auto text-center text-white">
+        <h1 class="font-bold text-white md:text-4xl pb-4">Contact</h1>
         <h1 class="text-2xl font-bold text-white md:text-2xl">
             Email: andrewkal327@gmail.com
             <br>

@@ -45,6 +45,14 @@ function Nav(props) {
                 Home
               </Link>
             </li>
+             <li class="text-white">
+              <Link
+                class="text-white transition hover:text-gray-100/75"
+                to="/skills"
+              >
+                Skills
+              </Link>
+            </li>
             <li class="text-white">
               <Link
                 class="text-white transition hover:text-gray-100/75"
@@ -53,7 +61,7 @@ function Nav(props) {
                 Projects
               </Link>
             </li>
-
+            
             <li class="text-white">
               <Link
                 class="text-white transition hover:text-gray-100/75"

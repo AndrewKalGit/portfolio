@@ -36,7 +36,7 @@ After working to help customers find the best hardware and software for their ne
   <img
     alt="#"
     src={Portrait}
-    class="w-full mb-20 md:-mt-12 sm:mt-20 sm:mb-36 lg:h-5/6 lg:w-5/6 sm:w-11/12 rounded-lg lg:-mb-12"
+    class="w-11/12"
   />
 </aside>
 

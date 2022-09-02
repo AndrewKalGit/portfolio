@@ -1,6 +1,6 @@
 import React from 'react';
 import Footer from './Footer';
-import Resumepdf from './Img/Andrew Kal-SWE-2022 Format (2)-1.png';
+import Resumepdf from './Andrew_Kal_FrontEnd__.pdf';
 
 function Resume(props) {
 
