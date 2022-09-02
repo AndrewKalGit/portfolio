@@ -6,6 +6,7 @@ import Weather from './Img/Weather.png'
 import Peeep from './Img/Peeep.png'
 import FELP from './Img/FELP-landingpage.png'
 import Nav from './Nav'
+import Portrait from './andrewk.png'
 
 function Projects(props) {
     return (
@@ -98,6 +99,7 @@ function Projects(props) {
 </div>
 </div>
 </section>
+<img src={Portrait} alt="Portrait"/>
 </div>
 </>
     );

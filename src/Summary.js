@@ -22,7 +22,7 @@ After working to help customers find the best hardware and software for their ne
         <strong> Not only do I bring a strong frontend backgroud, I thrive in a culture that shares my ability to struggle empathetically and come out on top.
         </strong>
       </p>
-      <div>
+      <div class="flex justify-center"> 
       <div class="flex w-11/12 mt-4 md:mt-8">
         <Link
           to="/projects" target="_blank"
@@ -42,6 +42,9 @@ After working to help customers find the best hardware and software for their ne
     </div>
   </div>
   <div class="flex justify-center items-center">
+  </div>
+  <div class="flex justify-center rounded-lg">
+  <img class="w-3/4 sm:w-2/4 md:w-1/4" src={Portrait} alt="Portrait"/>
   </div>
 </aside>
 
