@@ -42,11 +42,6 @@ After working to help customers find the best hardware and software for their ne
     </div>
   </div>
   <div class="flex justify-center items-center">
-  <img
-    alt="#"
-    src={Portrait}
-    class="w-full sm:w-1/4"
-  />
   </div>
 </aside>
 
