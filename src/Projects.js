@@ -99,7 +99,6 @@ function Projects(props) {
 </div>
 </div>
 </section>
-<img src={Portrait} alt="Portrait"/>
 </div>
 </>
     );

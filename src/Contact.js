@@ -24,7 +24,7 @@ function Contact(props) {
     </div>
   </div>
   <div class="flex justify-center bg-gray-900 -mt-20 sm:-mt-0">
-        <img class="mt-4 w-full sm:w-3/4 " src={Resumepdf} alt="resume"/>
+        <img class="mt-4 sm:-mt-12 w-full sm:w-3/4 " src={Resumepdf} alt="resume"/>
     </div>
 </aside>
        </>
