@@ -22,7 +22,7 @@ After working to help customers find the best hardware and software for their ne
         <strong> &emsp;&emsp;&emsp;Not only do I bring a strong frontend backgroud, I thrive in a culture that shares my ability to struggle empathetically and come out on top.
         </strong>
       </p>
-      <div>
+      <div class="ml-12">
       <div class="flex w-11/12 mt-4 md:mt-8">
         <Link
           to="/projects" target="_blank"
