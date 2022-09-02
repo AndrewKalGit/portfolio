@@ -10,7 +10,7 @@ function Summary(props) {
   <div class="p-8 md:p-8 lg:px-16 lg:py-10">
     <div class="max-w-xl mx-auto text-center sm:text-left">
       <h2 class="text-2xl font-bold text-white sm:pt-4 md:text-2xl lg:flex lg:justify-center">
-        Hello! I'm <span class="text-blue-400"> Andrew Kal </span>: <span class="text-red-400"> Frontend Developer </span>
+        Hello! I'm &nbsp; <span class="text-blue-400"> Andrew Kal </span>: <span class="text-red-400"> Frontend Developer </span>
       </h2>
 
       <p class="hidden text-gray-300 md:mt-4 md:block">
