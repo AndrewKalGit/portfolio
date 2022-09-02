@@ -9,12 +9,12 @@ function Summary(props) {
 >
   <div class="p-8 md:p-8 lg:px-16 lg:py-10">
     <div class="max-w-xl mx-auto text-center sm:text-left">
-      <h2 class="text-2xl font-bold text-white sm:pt-4 md:text-2xl">
+      <h2 class="text-2xl font-bold text-white sm:pt-4 md:text-2xl lg:flex lg:justify-center">
         Hello! I'm <span class="text-blue-400"> Andrew Kal </span>: <span class="text-red-400"> Frontend Developer </span>
       </h2>
 
       <p class="hidden text-gray-300 md:mt-4 md:block">
-        &emsp;&emsp; I'm a front-end developer with a background in sales and retail. I love solving problems, collaborating with like-minded people, and getting out of my comfort zone with hobbies like Boxing and Fitness.
+        &emsp;&emsp;&emsp; I'm a front-end developer with a background in sales and retail. I love solving problems, collaborating with like-minded people, and getting out of my comfort zone with hobbies like Boxing and Fitness.
 After working to help customers find the best hardware and software for their needs, I developed a strong interest in how app development and design makes a difference in people's lives. I am currently looking for a full time position as a Front-end developer and using freelancing as a means to stay engaged in the community and hone my front-end skills. 
         </p>
         <p class="text-gray-300 md:mt-4 md:block">
@@ -41,7 +41,7 @@ After working to help customers find the best hardware and software for their ne
       </div>
     </div>
   </div>
-  <div class="flex justify-center">
+  <div class="flex justify-center items-center">
   <img
     alt="#"
     src={Portrait}
