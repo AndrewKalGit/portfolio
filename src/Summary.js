@@ -12,8 +12,10 @@ function Summary(props) {
       <h2 class="text-2xl font-bold text-white sm:pt-4 md:text-2xl lg:flex lg:justify-center">
         Hello! I'm &nbsp; <span class="text-blue-400"> Andrew Kal </span>: <span class="text-red-400"> Frontend Developer </span>
       </h2>
-
-      <p class="hidden text-gray-300 md:mt-4 md:block font-bold">
+      <div class="flex justify-center rounded-lg">
+  <img class="w-3/4 sm:w-2/4 md:w-1/4 mt-4" src={Portrait} alt="Portrait"/>
+  </div>
+      <p class="text-gray-300 md:mt-4 md:block font-bold mt-4">
          I'm a front-end developer with a background in sales and retail. I love solving problems, collaborating with like-minded people, and getting out of my comfort zone with hobbies like Boxing and Fitness.
 After working to help customers find the best hardware and software for their needs, I developed a strong interest in how app development and design makes a difference in people's lives. I am currently looking for a full time position as a Front-end developer and using freelancing as a means to stay engaged in the community and hone my front-end skills. 
         </p>
@@ -23,7 +25,7 @@ After working to help customers find the best hardware and software for their ne
         </strong>
       </p>
       <div class="flex justify-center"> 
-      <div class="flex w-11/12 mt-4 md:mt-8">
+      <div class="flex w-11/12 mt-4 md:mt-4">
         <Link
           to="/projects" target="_blank"
           class="inline-block px-12 py-3 text-sm font-medium text-white transition  bg-gray-500 hover:bg-gray-700" rel="noreferrer"
@@ -42,9 +44,6 @@ After working to help customers find the best hardware and software for their ne
     </div>
   </div>
   <div class="flex justify-center items-center">
-  </div>
-  <div class="flex justify-center rounded-lg">
-  <img class="w-3/4 sm:w-2/4 md:w-1/4" src={Portrait} alt="Portrait"/>
   </div>
 </aside>
 
