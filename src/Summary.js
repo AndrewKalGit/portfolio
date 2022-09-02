@@ -19,7 +19,7 @@ After working to help customers find the best hardware and software for their ne
         </p>
         <p class="text-gray-300 md:mt-4 md:block">
         <br></br>
-        <strong> Not only do I bring a strong frontend backgroud, I thrive in a culture that shares my ability to struggle empathetically and come out on top.
+        <strong> &emsp;&emsp;&emsp;Not only do I bring a strong frontend backgroud, I thrive in a culture that shares my ability to struggle empathetically and come out on top.
         </strong>
       </p>
       <div>
