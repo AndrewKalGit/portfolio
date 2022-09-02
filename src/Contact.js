@@ -9,13 +9,13 @@ function Contact(props) {
 >
   <div class="p-8 mt-2">
     <div class="max-w-xl mx-auto text-center text-white">
-        <h1 class="font-bold text-white md:text-4xl pb-4">Contact</h1>
+        <h1 class="font-bold text-white text-3xl pb-4">Contact</h1>
         <h1 class="text-2xl font-bold text-white md:text-2xl">
             Email: andrewkal327@gmail.com
             <br>
             </br>
             Phone: 732-515-8724 
-             <div class="bg-gray-900">
+             <div class="bg-gray-900 mb-12">
         <a href={require("./Img/AndrewKalFrontEnd.pdf")} download="Andrew Kal's Resume">
         <button class="font-semi-bold w-40 h-8 bg-gray-400 hover:bg-gray-700 rounded-sm mt-4 text-white text-sm">Download Resume</button>
         </a>

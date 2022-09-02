@@ -19,7 +19,7 @@ function Skills(props) {
     </div>
     </div>
     <div
-      class="grid grid-cols-1 gap-8 mt-8 md:gap-12 md:mt-12 md:grid-cols-2 lg:grid-cols-5"
+      class="grid grid-cols-1 gap-8 md:gap-12 md:mt-12 md:grid-cols-2 lg:grid-cols-5"
     >
       <div class="flex items-start">
         <span class="flex-shrink-0 p-4 bg-gray-400 rounded-lg">

@@ -13,16 +13,16 @@ function Summary(props) {
         Hello! I'm &nbsp; <span class="text-blue-400"> Andrew Kal </span>: <span class="text-red-400"> Frontend Developer </span>
       </h2>
 
-      <p class="hidden text-gray-300 md:mt-4 md:block">
-        &emsp;&emsp;&emsp; I'm a front-end developer with a background in sales and retail. I love solving problems, collaborating with like-minded people, and getting out of my comfort zone with hobbies like Boxing and Fitness.
+      <p class="hidden text-gray-300 md:mt-4 md:block font-bold">
+         I'm a front-end developer with a background in sales and retail. I love solving problems, collaborating with like-minded people, and getting out of my comfort zone with hobbies like Boxing and Fitness.
 After working to help customers find the best hardware and software for their needs, I developed a strong interest in how app development and design makes a difference in people's lives. I am currently looking for a full time position as a Front-end developer and using freelancing as a means to stay engaged in the community and hone my front-end skills. 
         </p>
-        <p class="text-gray-300 md:mt-4 md:block">
+        <p class="text-gray-300 md:mt-4 md:block mb-8">
         <br></br>
-        <strong> &emsp;&emsp;&emsp;Not only do I bring a strong frontend backgroud, I thrive in a culture that shares my ability to struggle empathetically and come out on top.
+        <strong> Not only do I bring a strong frontend backgroud, I thrive in a culture that shares my ability to struggle empathetically and come out on top.
         </strong>
       </p>
-      <div class="ml-12">
+      <div>
       <div class="flex w-11/12 mt-4 md:mt-8">
         <Link
           to="/projects" target="_blank"

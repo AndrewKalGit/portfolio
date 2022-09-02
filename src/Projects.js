@@ -14,7 +14,7 @@ function Projects(props) {
 <div>
 <section class="text-white bg-gray-900">
   <div class="max-w-screen-4xl px-4 py-16 sm:px-6 lg:px-8">
-    <div class="flex justify-center text-center pb-12 sm:pb-0">
+    <div class="flex justify-center text-center pb-8 sm:pb-0">
     <div class="max-w-xl">
       <h2 class="text-3xl font-bold sm:text-4xl">Projects</h2>
 
@@ -26,7 +26,7 @@ function Projects(props) {
     </div>
     </div>
     <div
-      class="grid grid-cols-1 gap-8 mt-8 sm:gap-12 sm:mt-12 sm:grid-cols-2 md:grids-cols-2 lg:grid-cols-2 2xl:grid-cols-3"
+      class="grid grid-cols-1 gap-8 sm:gap-12 sm:mt-12 sm:grid-cols-2 md:grids-cols-2 lg:grid-cols-2 2xl:grid-cols-3"
     >
       <a href="https://amoriatea.com" target="_blank" class="block overflow-hidden rounded-2xl" rel="noreferrer">
   <img class="object-cover w-full h-56" src={Amoria} alt="Bubble tea cafe site" />
