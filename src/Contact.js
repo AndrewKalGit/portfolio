@@ -1,5 +1,5 @@
 import React from 'react';
-import Resumepdf from './AndrewKalFrontEnd.png'
+import Resumepdf from './Img/this.Andrew_Kal_FrontEndWebDeveloper-1.png'
 
 function Contact(props) {
     return (
@@ -16,7 +16,7 @@ function Contact(props) {
             </br>
             Phone: 732-515-8724 
              <div class="bg-gray-900 mb-12">
-        <a href={require("./Img/AndrewKalFrontEnd.pdf")} download="Andrew Kal's Resume">
+        <a href={require("./Img/Andrew_Kal_FrontEndWebDeveloper.pdf")} download="Andrew Kal's Resume">
         <button class="font-semi-bold w-40 h-8 bg-gray-400 hover:bg-gray-700 rounded-sm mt-4 text-white text-sm">Download Resume</button>
         </a>
             </div>

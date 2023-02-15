@@ -6,7 +6,8 @@ import Weather from './Img/Weather.png'
 import Peeep from './Img/Peeep.png'
 import FELP from './Img/FELP-landingpage.png'
 import Nav from './Nav'
-import Portrait from './andrewk.png'
+import TKD from './Img/tkd.png'
+import Echo from './Img/echo.png'
 
 function Projects(props) {
     return (
@@ -29,6 +30,28 @@ function Projects(props) {
     <div
       class="grid grid-cols-1 gap-8 sm:gap-12 sm:mt-12 sm:grid-cols-2 md:grids-cols-2 lg:grid-cols-2 2xl:grid-cols-3"
     >
+  <a href="https://echowebllc.netlify.app/" target="_blank" class="block overflow-hidden rounded-2xl" rel="noreferrer">
+  <img class="object-cover w-full h-56" src={Echo} alt="Freelancesite" />
+
+  <div class="p-4 bg-gray-700">
+    <p class="text-xs text-gray-400">https://echowebllc.netlify.app</p>
+
+    <h5 class="text-sm text-white">Free Lance Site</h5>
+
+    <p class="h-20 mt-1 text-xs text-gray-300">Implemented Form API for contact, implemented a calculator to allow users to make better transparent decision when deciding to buy a service</p>
+  </div>
+</a>
+  <a href="https://tkd-demo-site.netlify.app" target="_blank" class="block overflow-hidden rounded-2xl" rel="noreferrer">
+  <img class="object-cover w-full h-56" src={TKD} alt="TKD" />
+
+  <div class="p-4 bg-gray-700">
+    <p class="text-xs text-gray-400">https://tkd-demo-site.netlify.app/</p>
+
+    <h5 class="text-sm text-white">Tae Kwon Do</h5>
+
+    <p class="h-20 mt-1 text-xs text-gray-300">Embedded Google Maps and Contact Form APIs to make a functional site for users to connect with client</p>
+  </div>
+</a>
       <a href="https://amoriatea.com" target="_blank" class="block overflow-hidden rounded-2xl" rel="noreferrer">
   <img class="object-cover w-full h-56" src={Amoria} alt="Bubble tea cafe site" />
 
