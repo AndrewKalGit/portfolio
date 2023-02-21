@@ -19,7 +19,7 @@ function Summary(props) {
          I'm a front-end developer with a background in sales and retail. I love solving problems, collaborating with like-minded people, and getting out of my comfort zone with hobbies like Boxing and Fitness.
 After working to help customers find the best hardware and software for their needs, I developed a strong interest in how app development and design makes a difference in people's lives. I am currently looking for a full time position as a Front-end developer and using freelancing as a means to stay engaged in the community and hone my front-end skills. 
         </p>
-        <p class="text-gray-300 md:mt-4 md:block mb-8">
+        <p class="text-gray-300 font-semibold text-xl text-center md:mt-4 md:block mb-8">
         <br></br>
         <strong> Not only do I bring a strong frontend backgroud, I thrive in a culture that shares my ability to struggle empathetically and come out on top.
         </strong>

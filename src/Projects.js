@@ -36,7 +36,7 @@ function Projects(props) {
   <div class="p-4 bg-gray-700">
     <p class="text-xs text-gray-400">https://echowebllc.netlify.app</p>
 
-    <h5 class="text-sm text-white">Free Lance Site</h5>
+    <h5 class="text-sm text-white"><span class="font-extrabold text-md"> Freelance: </span> Free Lance Site</h5>
 
     <p class="h-20 mt-1 text-xs text-gray-300">Implemented Form API for contact, implemented a calculator to allow users to make better transparent decision when deciding to buy a service</p>
   </div>
@@ -47,7 +47,7 @@ function Projects(props) {
   <div class="p-4 bg-gray-700">
     <p class="text-xs text-gray-400">https://tkd-demo-site.netlify.app/</p>
 
-    <h5 class="text-sm text-white">Tae Kwon Do</h5>
+    <h5 class="text-sm text-white"><span class="font-extrabold text-md"> Freelance: </span> Tae Kwon Do</h5>
 
     <p class="h-20 mt-1 text-xs text-gray-300">Embedded Google Maps and Contact Form APIs to make a functional site for users to connect with client</p>
   </div>
